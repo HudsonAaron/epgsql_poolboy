@@ -1,4 +1,5 @@
 # epgsql_poolboy
-PostgreSQL/OTP + Poolboy
-OTP Version: 25 or recompile the erl files
-Poolboy: mysql-otp/mysql-otp-poolboy
+desc: PostgreSQL/OTP + Poolboy
+
+（1）OTP Version: 25 or recompile the erl files
+（2）Poolboy: mysql-otp/mysql-otp-poolboy
